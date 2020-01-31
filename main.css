@@ -179,7 +179,10 @@ img.profile-pic {
 	color: white;
 	font-weight: 300;
 }
-
+.company_logo{
+	width:100px;
+	height:100px;
+}
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
