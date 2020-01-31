@@ -181,7 +181,7 @@ img.profile-pic {
 }
 
 .company_logo{
-	width:200px;
+	width:200px!important;
 }
 
 @media screen and (max-width: 600px) {
