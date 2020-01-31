@@ -180,9 +180,6 @@ img.profile-pic {
 	font-weight: 300;
 }
 
-.company_logo{
-	width:200px!important;
-}
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
